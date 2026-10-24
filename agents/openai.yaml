@@ -1,0 +1,4 @@
+interface:
+  display_name: "老脸 · 抖音博主对标分析"
+  short_description: "采集抖音公开作品，比较爆款与日常表现，分析内容机制和商业获客路径"
+  default_prompt: "使用 $laolian-douyin-benchmark 分析这个抖音博主的公开作品、异常表现和商业路径。"
